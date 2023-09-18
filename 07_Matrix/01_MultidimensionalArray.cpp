@@ -12,7 +12,7 @@ int main()
                     {
                               cout<<arr[i][j]<<" ";
                     }
-                    cout<<"\n";
+                    cout<<"\n"   ;
           }
           return 0;
 }
